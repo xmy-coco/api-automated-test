@@ -1,0 +1,36 @@
+{
+    "//": "机房，域名等一些信息，用于请求header里，标识流量进入指定机房、集群、测试环境",
+    "prod":{
+        "qa.test.service1":{
+            "host":"www.baidu.com",
+            "env":"prod",
+            "idc":"shanghai-test机房标识1",
+            "cluster":"default"
+        },
+        "qa.test.service2":{
+            "host":"www.baidu.com",
+            "env":"prod",
+            "idc":"shanghai-test机房标识2"
+        },
+        "bing.test.service": {
+            "host":"www.bing.com",
+            "env":"prod",
+            "idc":"shanghai-test机房标识1",
+            "cluster":""
+        }
+    },
+    "boe":{
+        "qa.test.service1":{
+            "host":"www.baidu.com",
+            "env":"boe_requirement_branch",
+            "idc":"shanghai-test机房标识1",
+            "":""
+        },
+        "qa.test.service2":{
+            "host":"www.baidu.com",
+            "env":"boe_requirement_branch",
+            "idc":"shanghai-test机房标识2",
+            "":""
+        }
+    }
+}

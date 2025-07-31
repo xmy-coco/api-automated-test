@@ -1,0 +1,2 @@
+2025-07-31 17:47:37 | INFO    | base_client.py:138 | HTTP Response [200] (Attempt: 1)
+2025-07-31 17:47:37 | INFO    | test_demo.py:26 | {'s': [], 'i': {'ig': '3D7A12C0832D4F1D94844F1C80DCECDF'}}

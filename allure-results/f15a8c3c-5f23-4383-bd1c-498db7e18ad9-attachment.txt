@@ -1,0 +1,2 @@
+[32mINFO    [0m auto_test:base_client.py:138 HTTP Response [200] (Attempt: 1)
+[32mINFO    [0m auto_test:test_demo.py:26 {'s': [], 'i': {'ig': '3CD66E21B2B34A65A47063EE58D6A518'}}
